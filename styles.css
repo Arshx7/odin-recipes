@@ -1,0 +1,28 @@
+.heading {
+    font-size:50px;
+    background-color: rgb(238, 204, 204);
+    text-align: center;
+}
+* {
+    background-color: antiquewhite;
+}
+.list {
+    font-size: 30px;
+    
+}
+.img {
+    height: 450px;
+    width: auto;
+    
+    
+}
+.ingredients,
+.steps
+{
+    font-size: 20px;
+
+}
+p {
+    font-size: 20px;
+    color: rgb(184, 71, 169);
+}
